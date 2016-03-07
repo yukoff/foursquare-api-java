@@ -1,6 +1,8 @@
 foursquare-api-java
 =========
 
+[![Join the chat at https://gitter.im/yukoff/foursquare-api-java](https://badges.gitter.im/yukoff/foursquare-api-java.svg)](https://gitter.im/yukoff/foursquare-api-java?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is an updated version of the Google code project of the same name, available at [https://code.google.com/p/foursquare-api-java/](https://code.google.com/p/foursquare-api-java/)
 
 ### Usage documentation
